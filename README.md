@@ -56,6 +56,10 @@ git clone https://github.com/your-username/pong-game.git cd pong-game
 Install backend dependencies
 npm install
 
+💬 Contribute Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+📧 Contact For queries or collaboration: 📮 shashwats500@gmail.com 🔗 LinkedIn 📁 https://shashwatsaxena.netlify.app/
+
 Start the server
 node server/index.js
 
